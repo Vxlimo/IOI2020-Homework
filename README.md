@@ -2,7 +2,7 @@
 
 `Vxlimo` 的集训队作业代码。
 
-目前进度：17/150。
+目前进度：18/150。
 
 ### 题单
 
@@ -78,7 +78,7 @@
 - [ ] [ARC096_F](https://atcoder.jp/contests/arc096/tasks/arc096_d)
 - [ ] [ARC097_F](https://atcoder.jp/contests/arc097/tasks/arc097_d)
 - [ ] [ARC098_F](https://atcoder.jp/contests/arc098/tasks/arc098_d)
-- [ ] [ARC099_F](https://atcoder.jp/contests/arc099/tasks/arc099_d)
+- [x] [ARC099_F](https://atcoder.jp/contests/arc099/tasks/arc099_d)
 - [ ] [ARC100_F](https://atcoder.jp/contests/arc100/tasks/arc100_d)
 - [x] [ARC101_E](https://atcoder.jp/contests/arc101/tasks/arc101_c)
 - [ ] [ARC101_F](https://atcoder.jp/contests/arc101/tasks/arc101_d)
