@@ -2,7 +2,7 @@
 
 `Vxlimo` 的集训队作业代码。
 
-目前进度：23/150。
+目前进度：25/150。
 
 ### 题单
 
@@ -86,7 +86,7 @@
 - [x] [ARC103_D](https://atcoder.jp/contests/arc103/tasks/arc103_b)
 - [ ] [ARC103_F](https://atcoder.jp/contests/arc103/tasks/arc103_d)
 - [ ] [CF504E](https://codeforces.com/contest/504/problem/E)
-- [ ] [CF506C](https://codeforces.com/contest/506/problem/C)
+- [x] [CF506C](https://codeforces.com/contest/506/problem/C)
 - [ ] [CF506E](https://codeforces.com/contest/506/problem/E)
 - [ ] [CF512D](https://codeforces.com/contest/512/problem/D)
 - [x] [CF516D](https://codeforces.com/contest/516/problem/D)
