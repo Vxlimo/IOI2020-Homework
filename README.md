@@ -2,7 +2,7 @@
 
 `Vxlimo` 的集训队作业代码。
 
-目前进度：25/150。
+目前进度：27/150。
 
 ### 题单
 
@@ -28,7 +28,7 @@
 - [ ] [AGC026_F](https://atcoder.jp/contests/agc026/tasks/agc026_f)
 - [ ] [AGC027_D](https://atcoder.jp/contests/agc027/tasks/agc027_d)
 - [ ] [AGC027_E](https://atcoder.jp/contests/agc027/tasks/agc027_e)
-- [ ] [AGC027_F](https://atcoder.jp/contests/agc027/tasks/agc027_f)
+- [x] [AGC027_F](https://atcoder.jp/contests/agc027/tasks/agc027_f)
 - [x] [AGC028_C](https://atcoder.jp/contests/agc028/tasks/agc028_c)
 - [x] [AGC028_D](https://atcoder.jp/contests/agc028/tasks/agc028_d)
 - [ ] [AGC028_E](https://atcoder.jp/contests/agc028/tasks/agc028_e)
@@ -54,7 +54,7 @@
 - [x] [AGC034_E](https://atcoder.jp/contests/agc034/tasks/agc034_e)
 - [ ] [AGC034_F](https://atcoder.jp/contests/agc034/tasks/agc034_f)
 - [ ] [AGC035_C](https://atcoder.jp/contests/agc035/tasks/agc035_c)
-- [ ] [AGC035_D](https://atcoder.jp/contests/agc035/tasks/agc035_d)
+- [x] [AGC035_D](https://atcoder.jp/contests/agc035/tasks/agc035_d)
 - [ ] [AGC035_E](https://atcoder.jp/contests/agc035/tasks/agc035_e)
 - [ ] [AGC035_F](https://atcoder.jp/contests/agc035/tasks/agc035_f)
 - [ ] [AGC036_D](https://atcoder.jp/contests/agc036/tasks/agc036_d)
