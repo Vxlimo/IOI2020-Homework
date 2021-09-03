@@ -2,7 +2,7 @@
 
 `Vxlimo` 的集训队作业代码。
 
-目前进度：35/150。
+目前进度：36/150。
 
 ### 题单
 
@@ -151,7 +151,7 @@
 - [ ] [CF698D](https://codeforces.com/contest/698/problem/D)
 - [ ] [CF700E](https://codeforces.com/contest/700/problem/E)
 - [x] [CF704B](https://codeforces.com/contest/704/problem/B)
-- [ ] [CF704C](https://codeforces.com/contest/704/problem/C)
+- [x] [CF704C](https://codeforces.com/contest/704/problem/C)
 - [ ] [CF704D](https://codeforces.com/contest/704/problem/D)
 - [ ] [CF704E](https://codeforces.com/contest/704/problem/E)
 - [ ] [CF708D](https://codeforces.com/contest/708/problem/D)
