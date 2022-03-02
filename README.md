@@ -2,7 +2,7 @@
 
 `Vxlimo` 的集训队作业代码。
 
-目前进度：37/150。
+目前进度：39/150。
 
 ### 题单
 
@@ -73,7 +73,7 @@
 - [x] [ARC092_F](https://atcoder.jp/contests/arc092/tasks/arc092_d)
 - [ ] [ARC093_E](https://atcoder.jp/contests/arc093/tasks/arc093_c)
 - [ ] [ARC093_F](https://atcoder.jp/contests/arc093/tasks/arc093_d)
-- [ ] [ARC095_F](https://atcoder.jp/contests/arc095/tasks/arc095_d)
+- [x] [ARC095_F](https://atcoder.jp/contests/arc095/tasks/arc095_d)
 - [ ] [ARC096_E](https://atcoder.jp/contests/arc096/tasks/arc096_c)
 - [ ] [ARC096_F](https://atcoder.jp/contests/arc096/tasks/arc096_d)
 - [x] [ARC097_F](https://atcoder.jp/contests/arc097/tasks/arc097_d)
@@ -109,7 +109,7 @@
 - [ ] [CF566E](https://codeforces.com/contest/566/problem/E)
 - [ ] [CF568C](https://codeforces.com/contest/568/problem/C)
 - [ ] [CF568E](https://codeforces.com/contest/568/problem/E)
-- [ ] [CF571D](https://codeforces.com/contest/571/problem/D)
+- [x] [CF571D](https://codeforces.com/contest/571/problem/D)
 - [ ] [CF571E](https://codeforces.com/contest/571/problem/E)
 - [ ] [CF573E](https://codeforces.com/contest/573/problem/E)
 - [x] [CF575A](https://codeforces.com/contest/575/problem/A)
